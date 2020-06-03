@@ -102,5 +102,5 @@ Stretch Questions
     block- <h1> <footer> <div> inline-<span> <a> <img> nav .li { display: inline-block; }
     5. In your own words, explain the box model. What is the "fix" for the box model, in other words, how do we make all elements respect the width we've given them? 
 The block model is a series of boxes that all HTML is inside. We add CSS to style those boxes.
-by changing the width as an attribute
+by reseting width with *
 }
